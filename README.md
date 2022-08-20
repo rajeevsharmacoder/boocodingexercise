@@ -24,7 +24,7 @@ Add automated tests to verify the implementation of Part 1 and Part 2.
 
 
 
-As database I have made use of an Atlas Cluster on "https://cloud.mongodb.com/". I have removed my credentials from the settings.py file of the project.
+As database I have not used the suggestion in the part 1 but made use of an Atlas Cluster on "https://cloud.mongodb.com/". I have removed my credentials from the settings.py file of the project.
 In case you want to run the project successfully then -
 1) You will have to create your own Atlas cluster at "https://cloud.mongodb.com/".
 2) Get the connection string by clicking Connect > Connect your application and getting the URI from there and using it in the settings.py file.
