@@ -28,6 +28,8 @@ As database I have not used the suggestion in the part 1 but made use of an Atla
 In case you want to run the project successfully then -
 1) You will have to create your own Atlas cluster at "https://cloud.mongodb.com/".
 2) Get the connection string by clicking Connect > Connect your application and getting the URI from there and using it in the settings.py file.
+3) Once you have connected to the database, you have to make migrations and and migrate them so that appropriate collections are made in the database.
+Congratulations, now you can start hitting the API's like shown in the "api_exeuctions_screenshots_from_postman.docx" document via Postman.
 
 Also you will have to add a sample image in the media directory and you can use the same image for testing purpose.
 
