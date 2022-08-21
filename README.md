@@ -23,6 +23,10 @@ Part 3:
 Add automated tests to verify the implementation of Part 1 and Part 2.
 
 
+You should have python3 on your machine.
+You will need to install pymongo, djongo, Django, Pillow and "/Applications/Python\ 3.x/Install\ Certificates.command". So better to use a virtual environment for the same.
+
+
 
 As database I have not used the suggestion in the part 1 but made use of an Atlas Cluster on "https://cloud.mongodb.com/". I have removed my credentials from the settings.py file of the project.
 In case you want to run the project successfully then -
